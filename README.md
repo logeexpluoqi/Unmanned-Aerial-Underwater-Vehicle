@@ -1,5 +1,6 @@
 # Unmanned-Aerial-Underwater-Vehicle
 This is my undergraduate graduation design about a new UAUV design. 
+<<<<<<< HEAD
 
 - 该项目为本科二年级时的一个大创项目，当时做了一个实物模型，能够飞行，潜水没有试过，但是水密性良好；
 - 做毕业设计时由于实物模型已经损坏，所以做了改模型的仿真分析；
@@ -21,3 +22,5 @@ This is my undergraduate graduation design about a new UAUV design.
 ![水中运动仿真](Doc/Pictures/水中运动仿真.jpg)
 ![一阶低通滤波器](Doc/Pictures/一阶低通滤波器.jpg)
 ![卡尔曼滤波器](Doc/Pictures/卡尔曼滤波器.jpg)
+=======
+>>>>>>> b2024cb2fc5ed8f79b64dc065081164847fbee72
